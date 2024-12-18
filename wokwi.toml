@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'C:\Program Files\Raspberry Pi\Pico SDK v1.5.1'
+elf = 'C:\Program Files\Raspberry Pi\Pico SDK v1.5.1'
